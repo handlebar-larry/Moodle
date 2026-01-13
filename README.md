@@ -1,6 +1,6 @@
 # Music Player App
 
-A modern music streaming application built with React Native (Expo) and TypeScript, using the JioSaavn API for music content. Features a beautiful UI with light/dark theme support, comprehensive playlist management, and a seamless listening experience.
+A modern music streaming application built with React Native (Expo) and TypeScript, using the JioSaavn API for music content. Features a beautiful UI with dark theme support, comprehensive playlist management, and a seamless listening experience.
 
 ## Download 
 

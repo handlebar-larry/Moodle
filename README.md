@@ -4,7 +4,7 @@ A modern music streaming application built with React Native (Expo) and TypeScri
 
 ## Download 
 
-- **APK (Android)**: [Download here](https://expo.dev/artifacts/eas/fnixXHNKwZt9rNQQpRw3eB.apk)
+- **APK (Android)**: [Download here]()
 
 ## Features
 

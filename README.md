@@ -217,7 +217,7 @@ Music_player/
 ### Prerequisites
 - Node.js (v16 or higher)
 - npm or yarn
-- Expo Go app (for testing on physical device)
+- Expo Go app (for testing on physical device) with (Version sdk ~53.0.0)
 - iOS Simulator (Mac) or Android Studio (for emulator testing)
 
 ### Installation

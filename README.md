@@ -464,7 +464,3 @@ eas build -p ios --profile preview
 ##  Author
 
 Developed with React Native, Expo, and TypeScript following best practices for mobile app development.
-
----
-
-For detailed testing instructions, see [QUICK_START.md](./QUICK_START.md).

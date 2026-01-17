@@ -208,8 +208,7 @@ Music_player/
 ├── babel.config.js              # Babel configuration
 ├── package.json                 # Dependencies
 ├── tsconfig.json                # TypeScript configuration
-├── README.md                    # Currently opened file
-└── QUICK_START.md               # Quick start guide
+└── README.md                    # Currently opened file
 ```
 
 ##  Quick Start

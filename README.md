@@ -248,8 +248,6 @@ Music_player/
    - **Android Emulator**: Press `a` in terminal
    - **Web Browser**: Press `w` in terminal (limited audio support)
 
-For detailed setup instructions, see [QUICK_START.md](./QUICK_START.md).
-
 ##  Architecture
 
 ### State Management (Zustand)
